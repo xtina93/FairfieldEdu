@@ -1,0 +1,41 @@
+/* Styling for 'Athletics' in the header top navigation
+ * Uses 'CSS Selector' navigation object (ID: 278)
+ */
+
+a.t4-menu-athletics {
+	background: none;
+	color: #460000 !important;
+}
+a.t4-menu-athletics:hover {
+	background: none !important;
+}
+a.t4-menu-athletics.active {
+	color: #fff !important;
+}
+a.t4-menu-athletics.active:hover {
+	background: #460000 !important;
+}
+
+
+@media screen and (max-width: 767px) {
+
+
+
+#main-nav a.t4-menu-athletics {
+	background: none;
+	color: #460000 !important;
+}
+#main-nav a.t4-menu-athletics:hover {
+	background: none !important;
+}
+#main-nav a.t4-menu-athletics.active {
+	color: #fff !important;
+}
+#main-nav a.t4-menu-athletics.active:hover {
+	background: #460000 !important;
+}
+
+
+
+
+}
