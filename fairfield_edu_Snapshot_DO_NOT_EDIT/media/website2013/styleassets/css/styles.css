@@ -733,7 +733,7 @@ table-hover tbody tr.info:hover > td { background-color: #c4e3f3; }
 	#main-nav { float: right; }
 	#main-nav ul { list-style: none; margin: 0; padding: 0; }
 	#main-nav li { float: left; margin: 0; padding: 0; }
-	#main-nav li a { background: url('../images/main-nav-hover.gif') repeat-x center 80px; color: #fff; display: block; font-size: 13px; padding: 30px 15px; text-decoration: none; transition: background .1s linear; -moz-transition: background .1s linear; -webkit-transition: background .1s linear; }
+	#main-nav li a { background: url('../images/main-nav-hover.gif') repeat-x center 80px; color: #fff; display: block; font-size: 13px; padding: 15px 15px; text-decoration: none; transition: background .1s linear; -moz-transition: background .1s linear; -webkit-transition: background .1s linear; }
 	#main-nav li a:hover { background: url('../images/main-nav-hover.gif') repeat-x center bottom; }
 	#main-nav li a.active { background-color: #460000; background-position: center 80px; }
 	#main-nav li.end { margin-right: 20px; }
